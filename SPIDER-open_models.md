@@ -1,7 +1,4 @@
-# OKN-LLM-WG
-NSF OKN LLM Working Group
-
-
+# SPIDER Open Models
 Below is a list of potential language models we can offer/serve as open and sustainable alternatives to commercially available services.
 
 Alternatively, if you would like to experiment with smaller open models yourself, [Google Colab](https://colab.research.google.com/) offers a T4 GPU for free. Although it might not be available all the time as those GPUs might be prempted based on demand and availability. An example notebook is given [here](#google-colab).
