@@ -1,11 +1,11 @@
 # SPIDER Open Models
-Below is a list of potential language models we can offer/serve as open and sustainable alternatives to commercially available services.
+f you would like to experiment with smaller open models yourself, [Google Colab](https://colab.research.google.com/) offers a T4 GPU for free. (Note it might not be available all the time as those GPUs might be prempted based on demand and availability.) An example notebook is given [here](#google-colab).
 
-Alternatively, if you would like to experiment with smaller open models yourself, [Google Colab](https://colab.research.google.com/) offers a T4 GPU for free. Although it might not be available all the time as those GPUs might be prempted based on demand and availability. An example notebook is given [here](#google-colab).
+Alternatively, below is a list of potential language models we can offer/serve as open alternatives to commercially available services.
 
 ## Usable Language Models
 
-There are 3 foundational models, **Llama 2**, **Mistral**, and **Mixtral** that we can offer.
+Here are 3 popular foundational models we could let you use: **Llama 2**, **Mistral**, and **Mixtral**.
 
 ## Llama 2
 Llama 2 is an umbrella term for a family of LLMs, in particular any combination of:
