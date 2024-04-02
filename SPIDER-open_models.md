@@ -1,4 +1,4 @@
-# SPIDER Open Models
+# SPIDER - Open Models
 f you would like to experiment with smaller open models yourself, [Google Colab](https://colab.research.google.com/) offers a T4 GPU for free. (Note it might not be available all the time as those GPUs might be prempted based on demand and availability.) An example notebook is given [here](#google-colab).
 
 Alternatively, below is a list of potential language models we can offer/serve as open alternatives to commercially available services.
